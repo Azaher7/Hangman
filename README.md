@@ -14,7 +14,8 @@ A console-based Hangman game built in Python. Includes multiple difficulty level
 ---
 
 ## 🚀 How to Run
-1. Clone this repository:
+1. Clone the repository, navigate into the project folder, and run the game:
    ```bash
    git clone https://github.com/yourusername/hangman.git
-
+   cd hangman
+   python hangman.py
