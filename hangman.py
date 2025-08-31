@@ -19,7 +19,7 @@ def greet_user(user):
 
 def generate_word(difficulty):
     if difficulty.upper() == "E":
-        words = ["English", "French", "Spanish", "German", "Arabic", "Cat", "Dog", "Bear", "Lion", "Elephant", "Tiger"]
+        words = ["English", "French", "Spanish", "German", "Arabic", "Cat", "Dog", "Bear", "Lion", "Frog", "Tiger"]
         selected_word = random.choice(words)
         return selected_word.lower()
 
